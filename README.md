@@ -9,7 +9,7 @@ This Python program helps you easily distinguish similar-looking letters in any 
 git clone https://github.com/p111111111uto/whatisthis.git
 ```
 
-2. After it's installed, run the following command in terminal:
+2. After it's installed, run the following command in terminal (depending on your version of Python, you may need to use `python3` instead of `python`):
 ```bash
-python main.py
+python3 whatisthis.py
 ```
